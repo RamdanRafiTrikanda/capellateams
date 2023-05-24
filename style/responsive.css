@@ -1,0 +1,183 @@
+@media (max-width: 670px) {
+  /* Section hero */
+  .hero-section h1 {
+    font-size: 30px;
+  }
+
+  .ornamen-2 {
+    position: absolute;
+    width: 99.56px;
+    height: 100.72px;
+    left: 0px;
+    top: 128px;
+  }
+
+  .ornamen-3 {
+    position: absolute;
+    width: 72.66px;
+    height: 83.3px;
+    left: 0px;
+    top: 680px;
+  }
+
+  .ornamen-4 {
+    position: absolute;
+    width: 193px;
+    height: 30px;
+    left: 180px;
+    top: 680px;
+  }
+
+  /* Section services */
+  .page-home .icon {
+    display: none;
+  }
+
+  .card-text-1 {
+    width: 322px;
+  }
+
+  .card-2 {
+    height: 376px;
+  }
+
+  .card-text-2 {
+    width: 315px;
+  }
+
+  /* Section projects */
+  .text-date {
+    font-size: 16px;
+  }
+
+  h1.text-title {
+    font-size: 60px;
+  }
+
+  p.text-description {
+    margin-top: 40px;
+    margin-bottom: 50px;
+    width: 340.07000000000005px;
+  }
+
+  .card-start {
+    width: 377px;
+  }
+
+  .form-control {
+    width: 334px;
+  }
+
+  .btn-start-project {
+    width: 291px;
+  }
+
+  footer.bg-orange {
+    display: none;
+  }
+
+  .ornamen-footer-1 {
+    display: none;
+  }
+
+  .ornamen-footer-2 {
+    display: none;
+  }
+
+  .text-footer {
+    font-size: 26px;
+  }
+
+  .text-white-footer {
+    font-weight: normal;
+    color: #fff;
+    text-align: left;
+    font-size: 14px;
+    padding-top: 8px;
+  }
+}
+
+@media (max-width: 901px) {
+  .ornamen-1 {
+    position: absolute;
+    width: 60px;
+    height: 54px;
+    left: 35px;
+    top: -430px;
+  }
+
+  .ornamen-2 {
+    position: absolute;
+    width: 99.56px;
+    height: 100.72px;
+    left: 285px;
+    top: -451px;
+  }
+
+  .ornamen-3 {
+    position: absolute;
+    width: 80.66px;
+    height: 72.3px;
+    left: 288px;
+    top: 31px;
+    /* Tambahkan style lain yang diinginkan di sini */
+  }
+
+  .ornamen-4 {
+    position: absolute;
+    width: 193px;
+    height: 30px;
+    left: 36px;
+    top: 55px;
+  }
+
+  .card-text-1 {
+    width: 290px;
+  }
+
+  .icon {
+    display: none;
+  }
+
+  .card-text-2 {
+    width: 294px;
+  }
+
+  .card-img-top {
+    height: 230px;
+  }
+
+  .text-date {
+    font-size: 12px;
+  }
+
+  .btn-project {
+    font-size: 12px;
+    padding: 12px, 8px;
+    width: 150px;
+    height: 42px;
+  }
+
+  .ornamen-footer-1 {
+    display: none;
+  }
+
+  .orname-footer-2 {
+    display: none;
+  }
+
+  /* Page Project */
+  .card-projects-detail {
+    width: 320px;
+    height: 354px;
+  }
+
+  /* Page Start Project */
+  .start-project .row {
+    flex-direction: column;
+  }
+
+  footer {
+    margin-top: 700px;
+  }
+}
