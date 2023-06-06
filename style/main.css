@@ -401,6 +401,19 @@ footer {
   flex-grow: 0;
 }
 
+.card-projects-detail-white{
+  width: 568px;
+  height: 568px;
+
+  border-radius: 20px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
 .text-white-title-project {
   /* font-weight: medium; */
   font-family: 'Satoshi';
